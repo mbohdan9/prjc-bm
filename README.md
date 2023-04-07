@@ -29,4 +29,4 @@ Response example:
 
 # serialized model file and metrics
 https://drive.google.com/drive/folders/1SR5Qh_zJFo5MgfJJIOBUwuiyRRSypJDd?usp=share_link
-(file put into model folder)
+(put file  into model folder)
