@@ -8,9 +8,9 @@ Run bash train_model.sh to generate a new serialized model file
 Open terminal in project root folder, where Dockerfile is located.
 Build and run docker image with model to use text complexity prediction:
 
-docker build -t mymodelapi .
+`docker build -t mymodelapi .`
 
-docker run -v $PWD/model:/model --name mymodelapicont -p 80:80 mymodelapi
+`docker run -v $PWD/model:/model --name mymodelapicont -p 80:80 mymodelapi`
 
 Open http://localhost/docs for documentation
 Use POST http://localhost/predict for predicting text complexity
