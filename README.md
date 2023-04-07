@@ -27,3 +27,6 @@ Response example:
     "target": -0.48087047917320835
 }
 
+# serialized model file and metrics
+https://drive.google.com/drive/folders/1SR5Qh_zJFo5MgfJJIOBUwuiyRRSypJDd?usp=share_link
+(file put into model folder)
