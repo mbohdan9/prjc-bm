@@ -1,6 +1,8 @@
 # train model
 Open terminal in model folder, where train_model.sh located.
-Run bash train_model.sh to generate a new serialized model file
+Run 
+`bash train_model.sh`
+to generate a new serialized model file
 "text_complexity_model.joblib"
 
 # run fast api for model inference
